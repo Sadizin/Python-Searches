@@ -1,4 +1,4 @@
-#Arvore trie com palvras
+#Arvore trie com palavras
 
 class Trienode:
     def __init__(self):
